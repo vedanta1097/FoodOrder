@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_delete_all">Clear data</string>
+    <string name="nav_header_title">Food Order</string>
+    <string name="nav_header_description">Help you to manage food order of your food booth or food chain</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_order_btn">Add Order</string>
+</resources>
