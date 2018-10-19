@@ -1,5 +1,6 @@
 # FoodOrder
-Implementation of Android Architecture Components using Room, ViewModel, and LiveData.
+Implementation of Android Architecture Components using Room, ViewModel, and LiveData. <br/>
+This application can help food booth or food cart owner to remember the food orders. 
 
 ## Screenshots
 <image src="/image/Screenshot_1539955970.png" width=200/>
