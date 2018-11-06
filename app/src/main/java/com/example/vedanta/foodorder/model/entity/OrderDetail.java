@@ -1,6 +1,5 @@
 package com.example.vedanta.foodorder.model.entity;
 
-//helper class to temporarily place each food order and quantity
 public class OrderDetail {
     private String food;
     private int price;
